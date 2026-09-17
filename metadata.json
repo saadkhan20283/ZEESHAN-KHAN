@@ -1,0 +1,7 @@
+{
+  "name": "AI YouTube Studio",
+  "description": "Autonomous YouTube content engine: trend discovery, original scripting, Veo video generation, TTS voiceover, thumbnail creation, and scheduled publishing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AI YouTube Studio</string>
+    <string name="dashboard_title">Automation Studio</string>
+    <string name="create_video">Create Video</string>
+    <string name="find_trending_topics">Find Trending Topics</string>
+    <string name="auto_pilot">Start AI Autopilot</string>
+    <string name="connect_youtube">Connect YouTube</string>
+    <string name="schedule_upload">Schedule Upload</string>
+    <string name="create_and_schedule">Create &amp; Schedule</string>
+    <string name="generate_video">Generate Video</string>
+</resources>
+

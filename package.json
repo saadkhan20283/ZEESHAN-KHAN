@@ -1,0 +1,12 @@
+{
+  "name": "ai-youtube-automation-server",
+  "version": "1.0.0",
+  "description": "Express server for hosting and downloading generated AI YouTube videos and thumbnails",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
